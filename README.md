@@ -1,4 +1,4 @@
- JavaScript Practice 🚀
+JavaScript Practice 🚀
 
 Hi, I'm Mehak! 👋
 
