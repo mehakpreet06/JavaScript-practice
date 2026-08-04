@@ -61,7 +61,12 @@ Welcome to my JavaScript learning repository. Here, I upload my daily practice, 
 013-Loops.js
 014-isNaN().js
 015-NumberGuessingGame.js
-
+016-Functions.js
+017-VariableScope.js
+018-TemperatureConverter.js
+019-Arrays.js
+020-TwoDArrays.js
+021-Objects.js
 
  ⭐ Thank you for visiting!
 
