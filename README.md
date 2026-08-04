@@ -9,11 +9,24 @@ Welcome to my JavaScript learning repository. Here, I upload my daily practice, 
 - Variables
 - Data Types
 - Type Conversion
+- Constants
 - Operators
+- Operator Precedence
+- User Inputs
+- Math Object
+- Counter Program
+- Random Number Generator
 - Strings & String Methods
 - Conditional Statements
 - Loops (for, while, do...while)
 - break & continue
+- Functions
+- Parameters, Arguments & Return
+- Variable Scope (Local & Global)
+- Temperature Conversion Program
+- Arrays
+- 2D Arrays
+- Objects
 - isNaN()
 - Number Guessing Game
 
